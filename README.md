@@ -6,15 +6,27 @@
 
  
 Nombre : Nicolás Ignacio Bugueño Rementería 
+
+
 RUT : 20.007.300-2
+
+
 ID GitHub : nibugr
+
+
 Carrera : Ingeniería Civil en computación e informatica 
 
 
 
 Nombre : Maximiliano Carvajal
+
+
 RUT : 
+
+
 ID GitHub : 
+
+
 Carrera : 
 
 
