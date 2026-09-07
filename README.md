@@ -22,4 +22,12 @@
 
 ## instrucciones de compilación y ejecución.
 
+### Requisitos
+- Compilador GCC con soporte C++14 o superior
+- Windows 10/11
+
+### Con Dev-C++ (TDM-GCC)
+1. Abrir el archivo `TallerN1_NicolasBugueno_MaximilianoCarvajal`
+2. Presionar F11 para compilar y ejecutar
+
 
