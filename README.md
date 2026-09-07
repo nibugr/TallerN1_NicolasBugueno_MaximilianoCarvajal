@@ -1,11 +1,12 @@
-# TallerN1 Estructura de Datos || 2° Semestre 2026
+# Taller N° 1 Estructura de Datos || 2° Semestre 2026
 
 
 
 #Hospital MARMAJA
 
 ```
-*Estudiante: Nicolás Ignacio Bugueño Rementería 
+*Estudiante: Nicolás Ignacio Bugueño Rementería
+*RUT : 20.007.300-2
 *Carrera: Ingeniería Civil en Computación e informática 
 *Asignatura: Estructuras de Datos — 2° Semestre 2026
 *Profesor: Juan Nilo  | Ayudante: Daniel Durán
