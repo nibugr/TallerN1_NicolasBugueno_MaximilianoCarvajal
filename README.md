@@ -4,31 +4,20 @@
 
 #Hospital MARMAJA
 
+```
+*Estudiante: Nicolás Ignacio Bugueño Rementería 
+*Carrera: Ingeniería Civil en Computación e informática 
+*Asignatura: Estructuras de Datos — 2° Semestre 2026
+*Profesor: Juan Nilo  | Ayudante: Daniel Durán
+
+*Estudiante: Maximiliano Carvajal
+*Carrera: Ingeniería Civil en Computación e informática 
+*Asignatura: Estructuras de Datos — 2° Semestre 2026
+*Profesor: Juan Nilo  | Ayudante: Daniel Durán
+
+```
  
-Nombre : Nicolás Ignacio Bugueño Rementería 
+
+## instrucciones de compilación y ejecución.
 
 
-RUT : 20.007.300-2
-
-
-ID GitHub : nibugr
-
-
-Carrera : Ingeniería Civil en computación e informatica 
-
-
-
-Nombre : Maximiliano Carvajal
-
-
-RUT : 
-
-
-ID GitHub : 
-
-
-Carrera : 
-
-
-
-instrucciones de compilación y ejecución.
