@@ -1,8 +1,5 @@
 # Taller N° 1 Estructura de Datos || 2° Semestre 2026
-
-
-
-#Hospital MARMAJA
+- Hospital MARMAJA
 
 ```
 *Estudiante: Nicolás Ignacio Bugueño Rementería
